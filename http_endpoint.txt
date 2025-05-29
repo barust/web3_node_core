@@ -1,0 +1,1 @@
+curl 'https://eth-mainnet.g.alchemy.com/v2/wwe-JmncxgNt7GkNCzpAsHjQKmCRGX_F/getNFTs/?owner=vitalik.eth'
